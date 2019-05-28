@@ -1,6 +1,6 @@
 # Repositório de códigos PHP
 
-Esse repositório é destinado para armazenar códigos na linguagem PHP, utilizando programamção orientada a objetos. Todos os códigos aqui publicados podem ser usados em seus projetos desde que mantenha o comentário que informa o criador do código, e seus direitos autorais.
+Esse repositório é destinado para armazenar códigos na linguagem PHP, utilizando programação orientada a objetos. Todos os códigos aqui publicados podem ser usados em seus projetos desde que mantenha o comentário que informa o criador do código, e seus direitos autorais.
 
 ## Começando
 
