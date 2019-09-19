@@ -1,6 +1,6 @@
 # Repositório de códigos PHP
 
-Esse repositório é destinado para armazenar códigos na linguagem PHP, utilizando programação orientada a objetos. Todos os códigos aqui publicados podem ser usados em seus projetos desde que mantenha o comentário que informa o criador do código, e seus direitos autorais.
+Esse repositório é destinado para armazenar códigos na linguagem PHP, utilizando programamção orientada a objetos. Todos os códigos aqui publicados podem ser usados em seus projetos desde que mantenha o comentário que informa o criador do código, e seus direitos autorais.
 
 ## Começando
 
@@ -18,7 +18,7 @@ Recomendamos ter conhecimento previo em:
 
 * [XAMMP](https://www.apachefriends.org/pt_br/index.html) - O servidor Apache
 * [PHP](https://php.net) - Linguagem Utilizada
-* [SUBLIME TEXT](https://www.sublimetext.com/) - Editor de texto 
+* [VISUAL STUDIO CODE](https://code.visualstudio.com) - Editor de texto 
 
 ## Autor
 
