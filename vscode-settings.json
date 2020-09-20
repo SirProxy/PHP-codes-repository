@@ -1,0 +1,9 @@
+{
+    // Aperte Ctrl+Shift+P e pesquise por settings.json
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "material-icon-theme",
+    
+    "editor.tabSize": 2,
+
+    "editor.rulers": [80, 120]
+}
